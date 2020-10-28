@@ -8,12 +8,12 @@ body{
     z-index: 1;
 }
 .navbar-brand{
-    font-family: 'Victorian LET Plain:1.0', arial;
+    font-family: 'Lemonada', cursive;
     font-size: 70px;
     color: black;
 }
 nvbr{
-    font-family: 'Victorian LET Plain:1.0', arial;
+    font-family: 'Lemonada', cursive;
     color: black;
 }
 .nav-link{
@@ -225,6 +225,8 @@ h3{
 }
 #quote{
     font-size: 35px ;
+    font-family: 'Caveat', cursive;
+    font-weight: lighter;
 }
 ffff{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
